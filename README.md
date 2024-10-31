@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # png-metadata-viewer
+
 Simple and fast way of viewing Stable Diffusion PNG files along side associated metadata.
-=======
-=======
+
+---
 # PNG Metadata Viewer
 
 A Python GUI application to view image and metadata for PNG files, specifically designed for Stable Diffusion-generated metadata. The viewer provides a dark mode interface and allows navigation through images using arrow keys.
@@ -71,4 +70,3 @@ Feel free to fork the repository and submit pull requests for new features or bu
 
 License
 This project is licensed under the MIT License.
->>>>>>> 96bfed8 (Initial commit)
